@@ -1,0 +1,10 @@
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air Heater Black Box Model.csprojAssemblyReference.cache
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air_Heater_Black_Box_Model.Form1.resources
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air_Heater_Black_Box_Model.Properties.Resources.resources
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air Heater Black Box Model.csproj.GenerateResource.cache
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air Heater Black Box Model.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\bin\Debug\Air Heater Black Box Model.exe.config
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\bin\Debug\Air Heater Black Box Model.exe
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\bin\Debug\Air Heater Black Box Model.pdb
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air Heater Black Box Model.exe
+C:\Users\HP ELITEBOOK 820 G4\source\repos\Air Heater Black Box Model\obj\Debug\Air Heater Black Box Model.pdb

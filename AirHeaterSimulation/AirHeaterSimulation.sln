@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirHeaterSimulation", "AirHeaterSimulation\AirHeaterSimulation.csproj", "{45A7941C-ECE7-40EC-B43E-05CAC34DD738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A7941C-ECE7-40EC-B43E-05CAC34DD738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A7941C-ECE7-40EC-B43E-05CAC34DD738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A7941C-ECE7-40EC-B43E-05CAC34DD738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A7941C-ECE7-40EC-B43E-05CAC34DD738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C452EB-D0ED-4FE8-BD2D-5A50AE4FA903}
+	EndGlobalSection
+EndGlobal
